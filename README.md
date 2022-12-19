@@ -1,7 +1,7 @@
 # Routh-Stability
 This respiratory contains a MATLAB code that includes a main program and RouthCriteria class, this program takes input from user (transfer function) then extract the numerator and denominator polynomials  and apply Routh criteria to examine stability. 
 
-In "routh_proj.mlx" user will give the inputs and run the code lines then "ROuthCriteria.m" class will be called that carries the logic.
+In "routh_proj.mlx" user will give the inputs and run the code lines then "RouthCriteria.m" class will be called that carries the logic.
 Also this analysis carries special cases of routh criteria.
 
 
