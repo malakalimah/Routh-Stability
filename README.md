@@ -4,4 +4,5 @@ in "routh_proj.mlx" user will give the inputs and run the code lines then "ROuth
 Also this analysis carries special cases of routh criteria.
 you can expect output to be routh table and a line that tells whether the system is stable or not and the number of real poles also a graph of the system root locus.
 
-![snip from program](https://user-images.githubusercontent.com/70919728/208542262-7ac4fb3f-18d4-4af3-ad85-296ce82d13b6.jpeg)
+
+![snip from the program](https://user-images.githubusercontent.com/70919728/208544592-a7eaddcc-eb88-4a14-9ebc-8247b79dcd03.jpeg)
