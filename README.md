@@ -11,8 +11,8 @@ Also this analysis carries special cases of routh criteria.
 ![image](https://user-images.githubusercontent.com/70919728/208552754-ccaf2472-2505-4074-bdba-71fbd61fa859.png)
 
 
-for *i* is row index and *p* is column index of our routh matrix(table)
-the new row in matrix of index i+1 will have elements of index (*i+1*,*p*) where index (*i+1*,*p*) carries value equals to values strored in following indecies ( ( (i,p) * (i-1,p+1) ) - ( (i-2,p) * (i,p+1))) / (i,p)
+for *i* is row index and *p* is column index of our routh matrix(table) without appending the new rows
+the new row in matrix of index *m* where m as counter of new rows indecies will have value starts from *i* and cosiquently will have elements of index (*i*,*p*) or (*m*,*p*) where index (*m*,*p*) carries value equals to values strored in following indecies in our matrix ( ( (i+1,p) * (i,p+1) ) - ( (i,p) * (i+1,p+1))) / (i,p)
 
 
 
