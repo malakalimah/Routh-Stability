@@ -48,6 +48,7 @@ You can expect output to be routh table and a line that tells whether the system
 Note that the equation evaluated in following figure is of special case where whole row is zeros
 
 
+![Capture](https://user-images.githubusercontent.com/70919728/208780396-5aa092ec-3e20-42e4-be7b-d49fb68868c4.PNG)
 
-![Capture](https://user-images.githubusercontent.com/70919728/208780133-28bdff11-a3a1-442e-937e-2a68d493f541.PNG)
+
 
