@@ -8,7 +8,7 @@ In "routh_proj.mlx" user will give the inputs and run the code lines then "Routh
 Also this analysis carries special cases of routh criteria.
 
 ## Main logic
-![image](https://user-images.githubusercontent.com/70919728/208552754-ccaf2472-2505-4074-bdba-71fbd61fa859.png)
+
 
 
 for *i* is row index and *p* is column index of our routh matrix(table) without appending the new rows
