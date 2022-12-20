@@ -22,7 +22,7 @@ As shown in the code
 ```
            
 
-           for i=1:itter  %%excute routh criteria
+           for i=1:itter  %%excute routh criteria , itter is order of charactaristic equation minus 2
                try
                     for p= 1:y
                         
