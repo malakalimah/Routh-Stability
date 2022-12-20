@@ -45,4 +45,8 @@ As shown in the code
 You can expect output to be routh table and a line that tells whether the system is stable or not and the number of real poles also a graph of the system root locus.
 
 
-![snip from the program](https://user-images.githubusercontent.com/70919728/208544592-a7eaddcc-eb88-4a14-9ebc-8247b79dcd03.jpeg)
+Note that the equation evaluated in following figure is of special case where whole row is zeros
+
+
+![Snip from code running](https://user-images.githubusercontent.com/70919728/208779146-b4c19f34-dff6-4daa-85de-f5461f9c8d0c.PNG)
+
