@@ -34,6 +34,9 @@ As shown in the code
                            append_row(i,p)=new;
                            
                     end
+               catch
+               append_row(i,p)=0;
+               end
 ```
 
 ## Output
