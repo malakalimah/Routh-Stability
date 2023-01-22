@@ -95,7 +95,7 @@ classdef RouthCriteria
             end
             if count>0
 
-                fprintf("system is unstable with %d real poles",count)
+                fprintf("system is unstable with %d real positive poles",count)
             else
                 fprintf("system is stable")
 
